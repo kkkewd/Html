@@ -42,16 +42,16 @@ https://github.com/kkkewd/Html/raw/main/Mb-Portfoio-html.zip
 ## email-template
 https://github.com/kkkewd/Html/raw/main/responsive-html-email.zip
 
-## Spotify-Landing-Page-Redesign-master
+## Spotify-Landing
 https://github.com/kkkewd/Html/raw/main/Spotify-Landing-Page.zip
 
 ## responsive-travel-website
 https://github.com/kkkewd/Html/raw/main/responsive-travel.zip
 
-## above-educational-bootstrap-responsive
+## online education
 https://github.com/kkkewd/Html/raw/main/above-educational-bootstrap-responsive-template.zip
 
-## wow-portfolio-multi-purpose-html5
+## wow-portfolio
 https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
 
 ## Creativity
@@ -63,5 +63,5 @@ https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
 ## login-system
 https://github.com/kkkewd/Html/raw/main/login-system-master.zip
 
-## bootstrap-4-login-page-
+## bootstrap-login-page
 https://github.com/kkkewd/Html/raw/main/bootstrap-4-login-page-master.zip
