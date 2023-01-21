@@ -57,11 +57,11 @@ https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
 ## Creativity
 https://github.com/kkkewd/Html/raw/main/Creativity.zip
 
-## Advanced-Login-UI
+## Advanced-Login
 https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
 
-## netdisc login-system
+## netdisc login
 https://github.com/kkkewd/Html/raw/main/login-system-master.zip
 
-## bootstrap netdisc-login-page
+## bootstrap netdisc-login
 https://github.com/kkkewd/Html/raw/main/bootstrap-4-login-page-master.zip
