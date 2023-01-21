@@ -51,7 +51,7 @@ https://github.com/kkkewd/Html/raw/main/responsive-travel.zip
 ## online education
 https://github.com/kkkewd/Html/raw/main/above-educational-bootstrap-responsive-template.zip
 
-## wow-portfolio
+## personal blog
 https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
 
 ## Creativity
