@@ -48,5 +48,20 @@ https://github.com/kkkewd/Html/raw/main/Spotify-Landing-Page.zip
 ## responsive-travel-website
 https://github.com/kkkewd/Html/raw/main/responsive-travel.zip
 
-## game
-https://github.com/kkkewd/Html/raw/main/mario-main.zip
+## above-educational-bootstrap-responsive
+https://github.com/kkkewd/Html/raw/main/above-educational-bootstrap-responsive-template.zip
+
+## wow-portfolio-multi-purpose-html5
+https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
+
+## Creativity
+https://github.com/kkkewd/Html/raw/main/Creativity.zip
+
+## Advanced-Login-UI
+https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
+
+## login-system
+https://github.com/kkkewd/Html/raw/main/login-system-master.zip
+
+## bootstrap-4-login-page-
+https://github.com/kkkewd/Html/raw/main/bootstrap-4-login-page-master.zip
