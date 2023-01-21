@@ -60,8 +60,8 @@ https://github.com/kkkewd/Html/raw/main/Creativity.zip
 ## Advanced-Login-UI
 https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
 
-## login-system
+## netdisc login-system
 https://github.com/kkkewd/Html/raw/main/login-system-master.zip
 
-## bootstrap-login-page
+## bootstrap netdisc-login-page
 https://github.com/kkkewd/Html/raw/main/bootstrap-4-login-page-master.zip
