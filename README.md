@@ -54,10 +54,10 @@ https://github.com/kkkewd/Html/raw/main/above-educational-bootstrap-responsive-t
 ## personal blog
 https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
 
-## Creativity
+## creative media player
 https://github.com/kkkewd/Html/raw/main/Creativity.zip
 
-## Advanced-Login
+## netdisc-Login
 https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
 
 ## netdisc login
