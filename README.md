@@ -63,5 +63,5 @@ https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
 ## netdisc login
 https://github.com/kkkewd/Html/raw/main/login-system-master.zip
 
-## bootstrap netdisc-login
+## netdisc-login
 https://github.com/kkkewd/Html/raw/main/bootstrap-4-login-page-master.zip
