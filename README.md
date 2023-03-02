@@ -57,9 +57,6 @@ https://github.com/kkkewd/Html/raw/main/wow-portfolio-multi-purpose-html5.zip
 ## creative media player
 https://github.com/kkkewd/Html/raw/main/Creativity.zip
 
-## netdisc-Login
-https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip
-
 ## netdisc login
 https://github.com/kkkewd/Html/raw/main/login-system-master.zip
 
